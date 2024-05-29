@@ -1,6 +1,7 @@
 ﻿using NUnit.Framework;
 using SimpleBase;
 using System;
+using NUnit.Framework.Legacy;
 
 namespace SimpleBaseTest.Base85Test;
 

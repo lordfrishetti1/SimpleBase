@@ -3,6 +3,7 @@ using SimpleBase;
 using System;
 using System.IO;
 using System.Threading.Tasks;
+using NUnit.Framework.Legacy;
 
 namespace SimpleBaseTest.Base85Test;
 
